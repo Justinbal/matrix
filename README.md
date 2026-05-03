@@ -9,5 +9,5 @@ File takes in a matrix and vector of any size (>2) and prints the resultant vect
 
 > **NOTE:** This code assumes that the size of the matrix will match the size of the vector.
 
-### Example
+#### Example
 	python apply_matrix.py .\output_matrix.csv .\input_vector.csv .\output_vector.csv
