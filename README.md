@@ -1,5 +1,5 @@
 ## Using matrix_invert.py
-File takes in a matrix of any size (>2) and prints the inverse matrix and creates a csv file of the inverse. The first argument corresponds to the input matrix csv and the second augment to the output matrix csv. 
+File takes in a matrix of any size (>2) and prints the inverse matrix while creating a csv file of the inverse. The first argument corresponds to the input matrix csv and the second augment to the output matrix csv. 
 
 #### Example
 	python matrix_invert.py .\input_matrix.csv .\output_matrix.csv
